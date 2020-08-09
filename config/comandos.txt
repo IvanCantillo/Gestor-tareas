@@ -1,0 +1,5 @@
+comandos: 
+    1001 = todo OK.
+    1002 = Consuta realizada, pero faltan datos.
+    1003 = Consulta realizada, pero no trajo datos.
+    1004 = Error al escribir la consulta o del servidor.

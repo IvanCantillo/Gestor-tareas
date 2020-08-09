@@ -1,0 +1,7 @@
+.tarea-hecha {
+    text-decoration: line-through !important;
+}
+
+.text-error {
+    color: red !important;
+}
